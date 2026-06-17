@@ -9,7 +9,7 @@
     "versionCount" : 0
   },
   "flowContents" : {
-    "comments" : "",
+    "comments" : "Building and Running Dataflows",
     "componentType" : "PROCESS_GROUP",
     "connections" : [ {
       "backPressureDataSizeThreshold" : "1 GB",
@@ -55,7 +55,7 @@
     "inputPorts" : [ ],
     "labels" : [ ],
     "maxConcurrentTasks" : 1,
-    "name" : "02-building-and-running-dataflows",
+    "name" : "02",
     "outputPorts" : [ ],
     "position" : {
       "x" : 0.0,
@@ -260,6 +260,6 @@
   "snapshotMetadata" : {
     "author" : "chopx",
     "flowIdentifier" : "02",
-    "timestamp" : 1781686538790
+    "timestamp" : 1781687109196
   }
 }
