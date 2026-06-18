@@ -88,7 +88,7 @@
         "Owner" : "chopx",
         "Create Missing Directories" : "true",
         "Last Modified Time" : "${file.lastModifiedTime}",
-        "Directory" : "/home/chopx/learning/nifi/02-building-and-running-dataflows",
+        "Directory" : "/home/chopx/learning/nifi/02",
         "Conflict Resolution Strategy" : "fail"
       },
       "propertyDescriptors" : {
@@ -260,6 +260,6 @@
   "snapshotMetadata" : {
     "author" : "chopx",
     "flowIdentifier" : "02",
-    "timestamp" : 1781687109196
+    "timestamp" : 1781747506526
   }
 }
